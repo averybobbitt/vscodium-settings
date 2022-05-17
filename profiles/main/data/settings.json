@@ -1,0 +1,23 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "prettier.printWidth": 80,
+  "python.formatting.blackArgs": ["--line-length", "120"],
+  "python.formatting.provider": "black",
+  "redhat.telemetry.enabled": false,
+  "telemetry.telemetryLevel": "off",
+  "update.showReleaseNotes": false,
+  "workbench.colorTheme": "Dracula",
+  "workbench.enableExperiments": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "material-product-icons",
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.restoreWindows": "none",
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  }
+}
