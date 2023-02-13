@@ -1,7 +1,11 @@
 disabled: []
 enabled:
+  - id: 13xforever.language-x86-64-assembly
+    uuid: 7c8fcf53-a602-48d2-afdf-9c1318472604
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: AdaCore.ada
+    uuid: 8a300a45-fe7b-48d0-acda-ac044226abe9
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: christian-kohler.path-intellisense
@@ -24,12 +28,14 @@ enabled:
     uuid: dda49fd5-1f3b-4d25-bf61-4fc41905ede5
   - id: idleberg.icon-fonts
     uuid: 17a873c7-491e-4797-9172-186de70f5e98
+  - id: jeandeaual.scheme
+    uuid: 352e99ab-de18-43fc-a756-2ff3bffc3f1b
+  - id: Kelvin.vscode-sshfs
+    uuid: bb9fc30a-080a-40bc-a792-08cc4ed66bcd
   - id: markwylde.vscode-filesize
     uuid: 1d69cdfb-f927-423d-9921-5b3af8dff73e
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-toolsai.jupyter
-    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: nico-castell.linux-desktop-file
+    uuid: 1895bcfc-fdd4-4263-ade3-4aa598a21fda
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: PKief.material-product-icons
@@ -38,7 +44,13 @@ enabled:
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: ritwickdey.LiveServer
     uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: rust-lang.rust
+    uuid: 570e6089-b871-41df-9cf4-a723cb34ef01
   - id: tumido.cron-explained
     uuid: 6ee451cb-7b81-4520-9eb4-059db43a1431
+  - id: webfreak.debug
+    uuid: 2fd22b8e-b3b8-4e7f-9a28-a5e2d1bdd0d4
   - id: wix.vscode-import-cost
     uuid: c46b0018-f317-4b6c-a785-d2039b27338f
+  - id: zokugun.cron-tasks
+    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
